@@ -16,7 +16,9 @@ This repo was created to practice UI/API test using Cypress and following the go
 ### How to install cypress:
 
 npm init -y
+
 npm install --save-dev cypress
+
 npx cypress open
 
 Contact me: matiasjoaquinreynoso@gmail.com
